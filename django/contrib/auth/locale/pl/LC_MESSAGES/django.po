@@ -46,7 +46,7 @@ msgid "Change password: %s"
 msgstr "Zmień hasło: %s"
 
 msgid "Authentication and Authorization"
-msgstr "Autentykacja i autoryzacja"
+msgstr "Uwierzytelnianie i autoryzacja"
 
 msgid "password"
 msgstr "hasło"
